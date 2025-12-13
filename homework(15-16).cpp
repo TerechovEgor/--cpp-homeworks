@@ -2,7 +2,7 @@
 #include <string>
 
 using namespace std;
-bool flick = true;
+
 string povtor;
 class Okruzn {
 private:
